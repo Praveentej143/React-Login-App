@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.container {
+  background: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  width: 25vw;
+  border: none;
+  border-radius: 16px;
+  padding: 40px;
+}
